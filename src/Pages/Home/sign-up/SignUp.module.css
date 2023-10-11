@@ -1,0 +1,73 @@
+.container {
+  width: 100%;
+  max-width: 470px;
+  height: 600px;
+  border: 2px solid #ebeaed;
+  background-color: #ffffff;
+  display: grid;
+  justify-content: center;
+  text-align: center;
+}
+
+.header {
+  color: #1e0e62;
+  font-size: 42px;
+  font-weight: 700;
+  margin-top: 48px;
+}
+
+.inputStyle {
+  width: 330px;
+  border-radius: 100px;
+  border: 1px solid #151439;
+  margin-bottom: 20px;
+  padding-left: 24px;
+}
+
+.checkbox {
+  background-color: #25dac5;
+  height: 24px;
+  width: 24px;
+  border-radius: 6px;
+}
+
+.checkboxContainer {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  height: 24px;
+}
+
+.buttonStyle {
+  font-size: 18px;
+  color: white;
+  border-radius: 100px;
+  border: 0px;
+}
+
+.signIn {
+  background-color: #482be7;
+}
+
+.twitter {
+  background-color: #1da1f2;
+}
+
+.orContainer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.signInMsg {
+  margin-top: 30px;
+  font-size: 18px;
+  color: #151439;
+}
+
+.signInStyle {
+  text-decoration: none;
+  color: #25dac5;
+  font-size: 18px;
+  padding: 5px;
+}

@@ -1,0 +1,13 @@
+.homePage {
+  background-color: #2f1893;
+  height: 100%;
+  margin-left: 115px;
+  margin-right: 126px;
+  padding-bottom: 50px;
+}
+
+.container{
+  display: flex;
+  margin-top: 82px;
+  justify-content: space-between;
+}

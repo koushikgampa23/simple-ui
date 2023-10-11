@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  padding-top: 53px;
+  justify-content: space-between;
+}
+
+.subContainer {
+  display: flex;
+  gap: 33px;
+  height: 26px;
+}
+
+.buttonStyle {
+  background-color: #E93A7D;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 4px;
+  padding-bottom: 25px;
+  color: white;
+  border-radius: 50px;
+  border: 0px;
+  font-size: 18px;
+}
+
+.header {
+  width: 106px;
+  height: 32px;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+}
+
+.linkElmStyle {
+  color: white;
+  height: 80px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.rightSubContainer {
+  display: flex;
+  gap: 33px;
+}
+
+.buttonContainer {
+  display: flex;
+  gap: 21px;
+}
+
+
+
+

@@ -1,0 +1,28 @@
+.header {
+  font-size: 58px;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.container {
+  width: 100%;
+  max-width: 424px;
+  display: grid;
+}
+
+.content {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 22px;
+  max-width: 363px;
+}
+
+.buttonStyle {
+  background-color: #e93a7d;
+  padding: 12px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: white;
+  border-radius: 50px;
+  border: 0px;
+}
