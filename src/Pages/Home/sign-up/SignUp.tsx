@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import classnames from "classnames";
 import classes from "./SignUp.module.css";
 import { ReactComponent as DividerIcon } from "./Divider.svg";
